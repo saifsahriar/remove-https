@@ -9,5 +9,5 @@ The script reads a file containing URLs, removes the "https://" and "http://" sc
 ## Usage
 
 ```
-python3 remove_scheme.py input.txt
+python3 remove.py input.txt
 ```
