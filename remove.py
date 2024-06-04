@@ -5,7 +5,7 @@ import re
 
 if(len(sys.argv) < 2):
     print("[-] Insufficient parameters")
-    print("[+] Usage: python3 <filename>")
+    print("[+] Usage: python3 remove.py <filename>")
 
 filename = sys.argv[1]
 output_file = "output.txt"
